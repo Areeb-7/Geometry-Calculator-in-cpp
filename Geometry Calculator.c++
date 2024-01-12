@@ -1,3 +1,8 @@
+// Design a C++ program that acts as a geometry calculator.
+// Create a base class Geometry with functions for calculating areas and perimeters of basic geometric shapes like circles, rectangles, and triangles. 
+// Derive specialized classes like CircleGeometry, RectangleGeometry, and TriangleGeometry to implement these functions. 
+// The program should take user input for selecting a shape and calculating its area or perimeter.
+
 #include<iostream>
 using namespace std;
 //base claas
